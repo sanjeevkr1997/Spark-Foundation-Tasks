@@ -1,5 +1,5 @@
 # Spark-Foundation-Tasks
-As Data Science and Business Analytics Intern, We have to do task and My tasks are in listed below
+As Data Science and Business Analytics Intern, We have to do tasks to complete the internships and my tasks are in listed below
 
 # Tak-1
 # Prediction using Supervised ML

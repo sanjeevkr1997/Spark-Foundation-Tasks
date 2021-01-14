@@ -8,4 +8,4 @@ As Data Science and Business Analytics Intern, We have to do tasks to complete t
   I have got fairly good accuracy which is 93 %
 # Task-2
 # Prediction using Unsupervised ML
-  In this task I have to predicted the optimum no of cluster using KMeans and visually respresented it.
+  In this task I have to predict the optimum no of cluster using KMeans and visually respresent it.
